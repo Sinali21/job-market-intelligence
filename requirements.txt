@@ -1,0 +1,26 @@
+# ─────────────────────────────────────────────
+# AI-Powered Job Market Intelligence Platform
+# Requirements File
+# Install with: pip install -r requirements.txt
+# ─────────────────────────────────────────────
+
+# Web Dashboard
+streamlit
+
+# Data Handling
+pandas
+numpy
+openpyxl
+
+# NLP
+nltk
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
