@@ -257,7 +257,7 @@ Insights & Recommendations
 
 **Sinali**
 - GitHub: [@Sinali21](https://github.com/Sinali21)
-- LinkedIn: [www.linkedin.com/in/sinali-ruwanima-07198b332] (https://linkedin.com)
+- LinkedIn: [www.linkedin.com/in/sinali21] (https://linkedin.com)
 
 ---
 
